@@ -33,32 +33,56 @@ export default function NavigationBar(){
                             </nav>
                         }
                        {matches.medium && 
-                            <span className="navBarMenuMed">
-                                <span>About</span>
-                                <span>Education</span>
-                                <span>Experience</span>
+                            <nav className="navBarMenuMed">
+                                <span>
+                                <a className="navBarItemMed" href="#about">About</a>
                             </span>
+                            <span>
+                                <a className="navBarItemMed" href="#education">Education</a>
+                            </span>
+                            <span>
+                                <a className="navBarItemMed" href="#experience">Experience</a>
+                            </span>
+                            </nav>
                        }
                        {matches.secondMed && 
-                            <span className="navBarMenuSecMed">
-                                <span>About</span>
-                                <span>Education</span>
-                                <span>Experience</span>
+                            <nav className="navBarMenuSecMed">
+                                <span>
+                                <a className="navBarItemSecMed" href="#about">About</a>
                             </span>
+                            <span>
+                                <a className="navBarItemSecMed" href="#education">Education</a>
+                            </span>
+                            <span>
+                                <a className="navBarItemSecMed" href="#experience">Experience</a>
+                            </span>
+                            </nav>
                        }
                        {matches.large && 
-                        <span className="navBarMenuLarge">
-                            <span>About</span>
-                            <span>Education</span>
-                            <span>Experience</span>
-                        </span>
+                        <nav className="navBarMenuLarge">
+                            <span>
+                                <a className="navBarItemLg" href="#about">About</a>
+                            </span>
+                            <span>
+                                <a className="navBarItemLg" href="#education">Education</a>
+                            </span>
+                            <span>
+                                <a className="navBarItemLg" href="#experience">Experience</a>
+                            </span>
+                        </nav>
                        }
                        {matches.xxl && 
-                        <span className="navBarMenuXXL">
-                            <span>About</span>
-                            <span>Education</span>
-                            <span>Experience</span>
-                        </span>
+                        <nav className="navBarMenuXXL">
+                            <span>
+                                <a className="navBarItemXXL" href="#about">About</a>
+                            </span>
+                            <span>
+                                <a className="navBarItemXXL" href="#education">Education</a>
+                            </span>
+                            <span>
+                                <a className="navBarItemXXL" href="#experience">Experience</a>
+                            </span>
+                        </nav>
                        }
                    </Fragment>
                )} 
@@ -69,9 +93,15 @@ export default function NavigationBar(){
     if(showMenu){
         menuItems = 
         <div className="menuItems">
-            <span>About</span>
-            <span>Education</span>
-            <span>Experience</span>
+            <span>
+                <a className="navBarItemSm" href="#about">About</a>
+            </span>
+            <span>
+                <a className="navBarItemSm" href="#education">Education</a>
+            </span>
+            <span>
+                <a className="navBarItemSm" href="#experience">Experience</a>
+            </span>
         </div>
 
         menuMask = 

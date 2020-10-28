@@ -35,33 +35,79 @@
     opacity: 40%;
     z-index: 50;
 }
-.navBarMenuMed {
-    margin-right: 30px;
+
+
+.navBarItemSm {
+    color: #8CC3A4;
+    text-decoration: none;
 }
+.navBarItemSm:hover {
+    cursor: pointer;
+}
+
+
 .navBarMenuSecMed {
     margin-right: 55px;
-}
-.navBarMenuLarge {
-    margin-right: 75px;
 }
 .navBarMenuSecMed > span {
     margin-left: 30px;
     font-size: 21px;
     color: #8CC3A4;
 }
+.navBarItemSecMed {
+    color: #8CC3A4;
+    text-decoration: none;
+}
+.navBarItemSecMed:hover {
+    cursor: pointer;
+}
+
+
+
+.navBarMenuMed {
+    margin-right: 30px;
+}
 .navBarMenuMed > span {
     margin-left: 30px;
     font-size: 21px;
     color: #8CC3A4;
+}
+.navBarItemMed {
+    color: #8CC3A4;
+    text-decoration: none;
+}
+.navBarItemMed:hover {
+    cursor: pointer;
+}
+
+
+.navBarMenuLarge {
+    margin-right: 75px;
 }
 .navBarMenuLarge > span {
     font-size: 23px;
     margin-left: 30px;
     color: #8CC3A4;
 }
+.navBarItemLg {
+    color: #8CC3A4;
+    text-decoration: none;
+}
+.navBarItemLg:hover {
+    cursor: pointer;
+}
+
+
 .navBarMenuXXL > span {
     font-size: 23px;
     margin-left: 30px;
     margin-right: 20px;
     color: #8CC3A4;
+}
+.navBarItemXXL {
+    color: #8CC3A4;
+    text-decoration: none;
+}
+.navBarItemXXL:hover {
+    cursor: pointer;
 }

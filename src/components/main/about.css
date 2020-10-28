@@ -1,6 +1,11 @@
+html {
+    scroll-behavior: smooth;
+}
+
 .aboutContainerSm {
+    scroll-margin-top: 40px;
     position: relative;
-    top: 350px;
+    top: 400px;
     width: 80%;
     left: 10%;
 }
@@ -20,8 +25,9 @@
 
 
 .aboutContainerMed {
+    scroll-margin-top: 70px;
     position: relative;
-    top: 350px;
+    top: 400px;
     width: 80%;
     left: 10%;
 }
@@ -44,8 +50,9 @@
 
 
 .aboutContainerLg {
+    scroll-margin-top: 90px;
     position: relative;
-    top: 350px;
+    top: 400px;
     width: 80%;
     left: 10%;
 }
@@ -68,8 +75,9 @@
 
 
 .aboutContainerXXL {
+    scroll-margin-top: 100px;
     position: relative;
-    top: 350px;
+    top: 400px;
     width: 60%;
     left: 20%;
 }
@@ -85,7 +93,8 @@
     color: #ECEBE4;
     text-align: left;
     margin-bottom: 120px;
-    letter-spacing: 1px;
+    letter-spacing: 1.5px;
     font-weight: bold;
     line-height: 23px;
+    font-size: 21px;
 }
