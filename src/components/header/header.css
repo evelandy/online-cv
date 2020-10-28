@@ -1,0 +1,17 @@
+.headContainer {
+    display: flex;
+    justify-content: space-between;
+    padding: 12px;
+    align-items: center;
+    /* border-bottom: 1px solid gray; */
+    /* padding-bottom: 40px; */
+}
+.head {
+    font-weight: 500;
+    font-size: 21px;
+    color: #8CC3A4;
+    margin-left: 10px;
+    letter-spacing: 1px;
+    /* position: fixed;
+    top: 11px; */
+}

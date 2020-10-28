@@ -1,0 +1,244 @@
+.eduContainer {
+    position: relative;
+    top: 450px;
+}
+.eduHeader {
+    color: #8CC3A4;
+    font-size: 25px;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+}
+.eduCardContainerSm {
+    color: #ECEBE4;
+    height: 25em;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    font-size: 18px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.eduSchoolSm:first-child {
+    border-bottom: 1px solid #ECEBE4;
+}
+.eduSchoolSm:nth-child(2) {
+    border-bottom: 1px solid #ECEBE4;
+}
+.eduSchSm {
+    font-weight: bold;
+    letter-spacing: .5px;
+    margin-bottom: 5px;
+    margin-top: 20px;
+}
+.eduDegSm {
+    letter-spacing: .5px;
+    margin-bottom: 5px;
+}
+.eduGpaSm {
+    letter-spacing: .5px;
+    margin-bottom: 10px;
+}
+.eduTypeSm {
+    position: relative;
+    left: 19%;
+    border: .05px solid #ECEBE4;
+    margin-bottom: 20px;
+    width: 60%;
+    padding: 5px;
+    margin-top: 5px;
+}
+
+
+.eduContainerMed {
+    position: relative;
+    top: 450px;
+}
+.eduHeaderMed {
+    color: #ECEBE4;
+    font-size: 25px;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+}
+.eduCardContainerMed {
+    color: #ECEBE4;
+    height: 25em;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    font-size: 18px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    line-height: 25px;
+}
+.eduSchoolMed:first-child {
+    border-bottom: 2px solid #ECEBE4;
+    position: relative;
+    width: 80%;
+    left: 10%;
+}
+.eduSchoolMed:nth-child(2) {
+    border-bottom: 2px solid #ECEBE4;
+    position: relative;
+    width: 80%;
+    left: 10%;
+}
+.eduSchMed {
+    font-weight: bold;
+    letter-spacing: .5px;
+    margin-bottom: 5px;
+    margin-top: 10px;
+    font-size: 19px;
+}
+.eduDegMed {
+    letter-spacing: .5px;
+    margin-bottom: 5px;
+    font-size: 19px;
+}
+.eduGpaMed {
+    letter-spacing: .5px;
+    margin-bottom: 10px;
+    font-size: 19px;
+}
+.eduTypeMed {
+    position: relative;
+    left: 19%;
+    border: .05px solid #ECEBE4;
+    margin-bottom: 20px;
+    width: 60%;
+    padding: 5px;
+    margin-top: 5px;
+    font-size: 19px;
+}
+
+
+.eduContainerLg {
+    position: relative;
+    top: 450px;
+}
+.eduHeaderLg {
+    color: #ECEBE4;
+    font-size: 25px;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+}
+.eduCardContainerLg {
+    color: #ECEBE4;
+    height: 25em;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    font-size: 18px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    line-height: 25px;
+}
+.eduSchoolLg:first-child {
+    border-bottom: 2px solid #ECEBE4;
+    width: 80%;
+    position: relative;
+    left: 10%;
+}
+.eduSchoolLg:nth-child(2) {
+    border-bottom: 2px solid #ECEBE4;
+    width: 80%;
+    position: relative;
+    left: 10%;
+}
+.eduSchLg {
+    font-size: 19px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    margin-bottom: 5px;
+    margin-top: 15px;
+}
+.eduDegLg {
+    font-size: 19px;
+    letter-spacing: 1px;
+    margin-bottom: 5px;
+}
+.eduGpaLg {
+    font-size: 19px;
+    letter-spacing: 1px;
+    margin-bottom: 10px;
+}
+.eduTypeLg {
+    position: relative;
+    left: 19%;
+    border: .05px solid #ECEBE4;
+    width: 60%;
+    padding: 5px;
+    margin-top: 5px;
+    margin-bottom: 25px;
+    font-size: 19px;
+}
+
+
+.eduHeader {
+    font-size: 30px;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+.eduContainerXXL {
+    position: relative;
+    top: 450px;
+}
+.eduHeaderXXL {
+    color: #ECEBE4;
+    font-size: 25px;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+}
+.eduCardContainerXXL {
+    color: #ECEBE4;
+    height: 25em;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    font-size: 18px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    line-height: 25px;
+}
+.eduSchoolXXL:first-child {
+    border-bottom: 2px solid #ECEBE4;
+    width: 60%;
+    position: relative;
+    left: 20%;
+}
+.eduSchoolXXL:nth-child(2) {
+    border-bottom: 2px solid #ECEBE4;
+    width: 60%;
+    position: relative;
+    left: 20%;
+}
+.eduSchXXL {
+    font-size: 21px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    margin-bottom: 5px;
+    margin-top: 20px;
+}
+.eduDegXXL {
+    font-size: 21px;
+    letter-spacing: 1px;
+    margin-bottom: 5px;
+}
+.eduGpaXXL {
+    font-size: 21px;
+    letter-spacing: 1px;
+    margin-bottom: 10px;
+}
+.eduTypeXXL {
+    position: relative;
+    left: 19%;
+    border: .05px solid #ECEBE4;
+    width: 60%;
+    padding: 5px;
+    margin-top: 5px;
+    margin-bottom: 30px;
+    font-size: 21px;
+}

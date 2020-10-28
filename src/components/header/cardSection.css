@@ -1,0 +1,37 @@
+.cardSectionContainer {
+    margin-top: 20px;
+}
+
+.businessCardSm {
+    position: relative;
+    top: 160px;
+    width: 280px;
+    height: 180px;
+    transform: rotate(12deg);
+    box-shadow: 0 0 20px 5px gray;
+    z-index: -1;
+}
+.businessCardMed {
+    width: 420px;
+    height: 270px;
+    transform: rotate(12deg);
+    position: relative;
+    top: 150px;
+    z-index: -1;
+}
+.businessCardLg {
+    width: 460px;
+    height: 300px;
+    transform: rotate(12deg);
+    position: relative;
+    top: 145px;
+    z-index: -1;
+}
+.businessCardXXL {
+    width: 500px;
+    height: 320px;
+    transform: rotate(12deg);
+    position: relative;
+    top: 160px;
+    z-index: -1;
+}
