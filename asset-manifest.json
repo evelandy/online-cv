@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.5849c9db.chunk.css",
-    "main.js": "/static/js/main.b10469ca.chunk.js",
-    "main.js.map": "/static/js/main.b10469ca.chunk.js.map",
+    "main.css": "/static/css/main.4b7ea070.chunk.css",
+    "main.js": "/static/js/main.42e9bbea.chunk.js",
+    "main.js.map": "/static/js/main.42e9bbea.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.18467040.js",
     "runtime-main.js.map": "/static/js/runtime-main.18467040.js.map",
     "static/js/2.1034a08f.chunk.js": "/static/js/2.1034a08f.chunk.js",
     "static/js/2.1034a08f.chunk.js.map": "/static/js/2.1034a08f.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.5849c9db.chunk.css.map": "/static/css/main.5849c9db.chunk.css.map",
+    "static/css/main.4b7ea070.chunk.css.map": "/static/css/main.4b7ea070.chunk.css.map",
     "static/js/2.1034a08f.chunk.js.LICENSE.txt": "/static/js/2.1034a08f.chunk.js.LICENSE.txt",
     "static/media/OnlinebusinessCard.9d24442b.jpg": "/static/media/OnlinebusinessCard.9d24442b.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.18467040.js",
     "static/js/2.1034a08f.chunk.js",
-    "static/css/main.5849c9db.chunk.css",
-    "static/js/main.b10469ca.chunk.js"
+    "static/css/main.4b7ea070.chunk.css",
+    "static/js/main.42e9bbea.chunk.js"
   ]
 }
