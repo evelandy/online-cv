@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/online-cv/static/css/main.5849c9db.chunk.css",
+    "main.js": "/online-cv/static/js/main.b10469ca.chunk.js",
+    "main.js.map": "/online-cv/static/js/main.b10469ca.chunk.js.map",
+    "runtime-main.js": "/online-cv/static/js/runtime-main.9afe0a79.js",
+    "runtime-main.js.map": "/online-cv/static/js/runtime-main.9afe0a79.js.map",
+    "static/js/2.1034a08f.chunk.js": "/online-cv/static/js/2.1034a08f.chunk.js",
+    "static/js/2.1034a08f.chunk.js.map": "/online-cv/static/js/2.1034a08f.chunk.js.map",
+    "index.html": "/online-cv/index.html",
+    "static/css/main.5849c9db.chunk.css.map": "/online-cv/static/css/main.5849c9db.chunk.css.map",
+    "static/js/2.1034a08f.chunk.js.LICENSE.txt": "/online-cv/static/js/2.1034a08f.chunk.js.LICENSE.txt",
+    "static/media/OnlinebusinessCard.9d24442b.jpg": "/online-cv/static/media/OnlinebusinessCard.9d24442b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9afe0a79.js",
+    "static/js/2.1034a08f.chunk.js",
+    "static/css/main.5849c9db.chunk.css",
+    "static/js/main.b10469ca.chunk.js"
+  ]
+}
