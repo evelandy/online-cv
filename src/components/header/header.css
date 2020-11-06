@@ -15,3 +15,14 @@
     /* position: fixed;
     top: 11px; */
 }
+.dlBtn {
+    font-size: 21px;
+    border: 0;
+    padding: 0;
+    background-color: inherit;
+    color: #8CC3A4;
+    outline: none;
+}
+.dlBtn:hover {
+    cursor: pointer;
+}
