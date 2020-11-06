@@ -6,7 +6,7 @@ import './header.css';
 export default class Header extends React.Component{
 
     async downloadResume() {
-        await fetch(`http://williamgriffin.pythonanywhere.com/getResume`, {
+        await fetch(`https://williamgriffin.pythonanywhere.com/getResume`, {
             method: 'GET',
             headers: {
                 'Accept': 'application/json, text/plain, */*',
