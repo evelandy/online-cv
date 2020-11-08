@@ -1,6 +1,6 @@
 .expContainer {
     position: relative;
-    top: 575px;
+    top: 650px;
 }
 .expHeader {
     color: #8CC3A4;
@@ -81,9 +81,13 @@
 }
 .expComSm {
     font-weight: bold;
-    margin-bottom: 15px;
+    margin-bottom: 5px;
     font-size: 21px;
     letter-spacing: 1px;
+}
+.expLocSm {
+    margin-bottom: 15px;
+    font-weight: bold;
 }
 .expRolSm {
     margin-bottom: 10px;
@@ -141,9 +145,13 @@
 }
 .expComMed {
     font-weight: bold;
-    margin-bottom: 15px;
+    margin-bottom: 5px;
     font-size: 21px;
     letter-spacing: 1px;
+}
+.expLocMed {
+    margin-bottom: 15px;
+    font-weight: bold;
 }
 .expRolMed {
     margin-bottom: 10px;
@@ -201,9 +209,13 @@
 }
 .expComLg {
     font-weight: bold;
-    margin-bottom: 15px;
+    margin-bottom: 5px;
     font-size: 22px;
     letter-spacing: 1px;
+}
+.expLocLg {
+    margin-bottom: 15px;
+    font-weight: bold;
 }
 .expRolLg {
     margin-bottom: 10px;
@@ -262,9 +274,13 @@
 }
 .expComXXL {
     font-weight: bold;
-    margin-bottom: 20px;
+    margin-bottom: 5px;
     font-size: 24px;
     letter-spacing: 1px;
+}
+.expLocXXL {
+    margin-bottom: 15px;
+    font-weight: bold;
 }
 .expRolXXL {
     margin-bottom: 10px;

@@ -15,7 +15,7 @@ const schools = [
         school: 'Houston Community College',
         degree: 'Certification I',
         gpa: '3.250',
-        type: 'Network and Computer Systems Administration'
+        type: 'Network and Computer Systems Administration; Microsoft Specialiation'
     }
 ]
 

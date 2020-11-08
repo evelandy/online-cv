@@ -29,6 +29,9 @@ export default function ExpCard() {
                                             <div className="expComSm">
                                                 {j.Company}
                                             </div>
+                                            <div className="expLocSm">
+                                                {j.Location}
+                                            </div>
                                             <div className="expRolSm">
                                                 {j.Role}
                                             </div>
@@ -54,6 +57,9 @@ export default function ExpCard() {
                                             
                                             <div className="expComMed">
                                                 {j.Company}
+                                            </div>
+                                            <div className="expLocMed">
+                                                {j.Location}
                                             </div>
                                             <div className="expRolMed">
                                                 {j.Role}
@@ -81,6 +87,9 @@ export default function ExpCard() {
                                             <div className="expComLg">
                                                 {j.Company}
                                             </div>
+                                            <div className="expLocLg">
+                                                {j.Location}
+                                            </div>
                                             <div className="expRolLg">
                                                 {j.Role}
                                             </div>
@@ -106,6 +115,9 @@ export default function ExpCard() {
                                             
                                             <div className="expComXXL">
                                                 {j.Company}
+                                            </div>
+                                            <div className="expLocLg">
+                                                {j.Location}
                                             </div>
                                             <div className="expRolXXL">
                                                 {j.Role}
