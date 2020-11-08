@@ -1,10 +1,10 @@
 import React from 'react';
-import '../footer/footer.css';
+import '../footer/footer.css'
 
 export default function Footer() {
     return (
-        <div classname="outerFooter">
-            <div classname="innerFooter">
+        <div className="outerFooter">
+            <div className="innerFooter">
                 &copy; GrDev 2020
             </div>
         </div>

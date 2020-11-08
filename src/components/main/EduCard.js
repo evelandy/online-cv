@@ -4,7 +4,7 @@ import schools from './Schools';
 import Media from 'react-media';
 
 export default function EduCard() {
-    const [school, setSchools] = useState(schools);
+    const [school] = useState(schools);
     
     function mediaSize() {
         return (

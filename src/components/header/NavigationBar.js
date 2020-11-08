@@ -35,27 +35,27 @@ export default function NavigationBar(){
                        {matches.medium && 
                             <nav className="navBarMenuMed">
                                 <span>
-                                <a className="navBarItemMed" href="#about">About</a>
-                            </span>
-                            <span>
-                                <a className="navBarItemMed" href="#education">Education</a>
-                            </span>
-                            <span>
-                                <a className="navBarItemMed" href="#experience">Experience</a>
-                            </span>
+                                    <a className="navBarItemMed" href="#about">About</a>
+                                </span>
+                                <span>
+                                    <a className="navBarItemMed" href="#education">Education</a>
+                                </span>
+                                <span>
+                                    <a className="navBarItemMed" href="#experience">Experience</a>
+                                </span>
                             </nav>
                        }
                        {matches.secondMed && 
                             <nav className="navBarMenuSecMed">
                                 <span>
-                                <a className="navBarItemSecMed" href="#about">About</a>
-                            </span>
-                            <span>
-                                <a className="navBarItemSecMed" href="#education">Education</a>
-                            </span>
-                            <span>
-                                <a className="navBarItemSecMed" href="#experience">Experience</a>
-                            </span>
+                                    <a className="navBarItemSecMed" href="#about">About</a>
+                                </span>
+                                <span>
+                                    <a className="navBarItemSecMed" href="#education">Education</a>
+                                </span>
+                                <span>
+                                    <a className="navBarItemSecMed" href="#experience">Experience</a>
+                                </span>
                             </nav>
                        }
                        {matches.large && 

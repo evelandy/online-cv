@@ -3,18 +3,20 @@ import Header from './header/Header';
 import CardSection from './header/CardSection';
 import About from './main/About';
 import Education from './main/Education';
-import Experience from './main/Experience';
 import Footer from './footer/Footer';
+import LinkSection from './header/LinkSection';
+import ExpCard from './main/ExpCard';
 
 function App() {
   return (
     <div className="App">
       <Header />
       <CardSection />
+      <LinkSection />
       <About />
       <Education />
-      <Experience />
-      {/* <Footer /> */}
+      <ExpCard />
+      <Footer />
     </div>
   );
 }

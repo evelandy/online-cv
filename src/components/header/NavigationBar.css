@@ -46,26 +46,12 @@
 }
 
 
-.navBarMenuSecMed {
-    margin-right: 35px;
-}
-.navBarMenuSecMed > span {
-    margin-left: 30px;
-    font-size: 21px;
-    color: #8CC3A4;
-}
-.navBarItemSecMed {
-    color: #8CC3A4;
-    text-decoration: none;
-}
-.navBarItemSecMed:hover {
-    cursor: pointer;
-}
-
-
-
 .navBarMenuMed {
-    margin-right: 30px;
+    margin-right: 10px;
+    /* position: fixed;
+    top: 10px;
+    left: 40%;
+    z-index: 50; */
 }
 .navBarMenuMed > span {
     margin-left: 30px;
@@ -81,8 +67,33 @@
 }
 
 
+.navBarMenuSecMed {
+    margin-right: 10px;
+    /* position: fixed;
+    top: 10px;
+    left: 51%;
+    z-index: 50; */
+}
+.navBarMenuSecMed > span {
+    margin-left: 30px;
+    font-size: 21px;
+    color: #8CC3A4;
+}
+.navBarItemSecMed {
+    color: #8CC3A4;
+    text-decoration: none;
+}
+.navBarItemSecMed:hover {
+    cursor: pointer;
+}
+
+
 .navBarMenuLarge {
-    margin-right: 30px;
+    margin-right: 10px;
+    /* position: fixed;
+    top: 11px;
+    left: 63%;
+    z-index: 50; */
 }
 .navBarMenuLarge > span {
     font-size: 23px;
@@ -98,6 +109,12 @@
 }
 
 
+/* .navBarMenuXXL {
+    position: fixed;
+    top: 15px;
+    left: 74%;
+    z-index: 50;
+} */
 .navBarMenuXXL > span {
     font-size: 23px;
     margin-left: 20px;

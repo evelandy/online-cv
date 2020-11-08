@@ -1,7 +1,7 @@
 import React from 'react';
 import NavigationBar from './NavigationBar';
 import './header.css';
-import William_Griffin_Resume from '../header/William_Griffin_Resume.pdf';
+// import William_Griffin_Resume from '../header/William_Griffin_Resume.pdf';
 import axios from 'axios';
 
 export default class Header extends React.Component{

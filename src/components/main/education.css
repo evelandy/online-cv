@@ -1,14 +1,17 @@
 .eduContainer {
     /* scroll-margin-top: 10px; */
     position: relative;
-    top: 450px;
+    top: 400px;
 }
+
 .eduHeader {
     color: #8CC3A4;
     font-size: 25px;
     text-transform: uppercase;
     margin-bottom: 20px;
 }
+
+
 .eduCardContainerSm {
     color: #ECEBE4;
     height: 25em;
@@ -20,11 +23,19 @@
     margin-top: 50px;
     margin-bottom: 50px;
 }
+.eduSchoolSm {
+    margin-bottom: 20px;
+}
 .eduSchoolSm:first-child {
     border-bottom: 1px solid #ECEBE4;
+    padding-bottom: 25px;
 }
 .eduSchoolSm:nth-child(2) {
     border-bottom: 1px solid #ECEBE4;
+    padding-bottom: 25px;
+}
+.eduSchoolSm:last-child {
+    padding-bottom: 25px;
 }
 .eduSchSm {
     font-weight: bold;
@@ -73,17 +84,27 @@
     margin-bottom: 50px;
     line-height: 25px;
 }
+.eduSchoolMed {
+    margin-bottom: 30px;
+}
 .eduSchoolMed:first-child {
     border-bottom: 2px solid #ECEBE4;
     position: relative;
     width: 80%;
     left: 10%;
+    padding-bottom: 30px;
 }
 .eduSchoolMed:nth-child(2) {
     border-bottom: 2px solid #ECEBE4;
     position: relative;
     width: 80%;
     left: 10%;
+    padding-bottom: 30px;
+}
+.eduSchoolMed:last-child {
+    width: 80%;
+    margin-left: 10%;
+    padding-bottom: 30px;
 }
 .eduSchMed {
     font-weight: bold;
@@ -136,17 +157,27 @@
     margin-bottom: 50px;
     line-height: 25px;
 }
+.eduSchoolLg {
+    margin-bottom: 30px;
+}
 .eduSchoolLg:first-child {
     border-bottom: 2px solid #ECEBE4;
     width: 80%;
     position: relative;
     left: 10%;
+    padding-bottom: 35px;
 }
 .eduSchoolLg:nth-child(2) {
     border-bottom: 2px solid #ECEBE4;
     width: 80%;
     position: relative;
     left: 10%;
+    padding-bottom: 35px;
+}
+.eduSchoolLg:last-child {
+    width: 80%;
+    margin-left: 10%;
+    padding-bottom: 35px;
 }
 .eduSchLg {
     font-size: 19px;
@@ -204,17 +235,27 @@
     margin-bottom: 50px;
     line-height: 25px;
 }
+.eduSchoolXXL {
+    margin-bottom: 40px;
+}
 .eduSchoolXXL:first-child {
     border-bottom: 2px solid #ECEBE4;
     width: 60%;
     position: relative;
     left: 20%;
+    padding-bottom: 35px;
 }
 .eduSchoolXXL:nth-child(2) {
     border-bottom: 2px solid #ECEBE4;
     width: 60%;
     position: relative;
     left: 20%;
+    padding-bottom: 35px;
+}
+.eduSchoolXXL:last-child {
+    width: 60%;
+    margin-left: 20%;
+    padding-bottom: 35px;
 }
 .eduSchXXL {
     font-size: 21px;
