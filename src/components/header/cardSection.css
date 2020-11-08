@@ -8,7 +8,7 @@
     width: 280px;
     height: 180px;
     transform: rotate(12deg);
-    box-shadow: 0 0 20px 5px gray;
+    box-shadow: 0 0 20px 5px #092327;
     z-index: -1;
 }
 .businessCardMed {
@@ -17,6 +17,7 @@
     transform: rotate(12deg);
     position: relative;
     top: 150px;
+    box-shadow: 0 0 20px 5px #092327;
     z-index: -1;
 }
 .businessCardLg {
@@ -25,6 +26,7 @@
     transform: rotate(12deg);
     position: relative;
     top: 145px;
+    box-shadow: 0 0 20px 5px #092327;
     z-index: -1;
 }
 .businessCardXXL {
@@ -33,5 +35,6 @@
     transform: rotate(12deg);
     position: relative;
     top: 160px;
+    box-shadow: 0 0 20px 5px #092327;
     z-index: -1;
 }

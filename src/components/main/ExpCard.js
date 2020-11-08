@@ -18,9 +18,9 @@ export default function ExpCard() {
                     <Fragment>
                         {matches.small && 
                             <div id="experience" className="expContainer">
-                                <div className="expHeader">
+                                <h2 className="expHeader">
                                     Experience
-                                </div>
+                                </h2>
                                 <div className="expCardContainerSm">
                                     {job.map((j, i) => (
                                         <div className='expJobSm' key={i}>
@@ -44,9 +44,9 @@ export default function ExpCard() {
                         }
                         {matches.medium && 
                             <div id="experience" className="expContainerMed">
-                                <div className="expHeaderMed">
+                                <h2 className="expHeaderMed">
                                     Experience
-                                </div>
+                                </h2>
                                 <div className="expCardContainerMed">
                                     {job.map((j, i) => (
                                         <div className='expJobMed' key={i}>
@@ -70,9 +70,9 @@ export default function ExpCard() {
                         }
                         {matches.large && 
                             <div id="experience" className="expContainerLg">
-                                <div className="expHeaderLg">
+                                <h2 className="expHeaderLg">
                                     Experience
-                                </div>
+                                </h2>
                                 <div className="expCardContainerLg">
                                     {job.map((j, i) => (
                                         <div className='expJobLg' key={i}>
@@ -96,9 +96,9 @@ export default function ExpCard() {
                         }
                         {matches.xxl && 
                             <div id="experience" className="expContainerXXL">
-                                <div className="expHeaderXXL">
+                                <h2 className="expHeaderXXL">
                                     Experience
-                                </div>
+                                </h2>
                                 <div className="expCardContainerXXL">
                                     {job.map((j, i) => (
                                         <div className='expJobXXL' key={i}>

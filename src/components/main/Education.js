@@ -5,9 +5,9 @@ import './education.css';
 export default function Education() {
     return (
         <div id="education" className="eduContainer">
-            <div className="eduHeader">
+            <h2 className="eduHeader">
                 Education
-            </div>
+            </h2>
             {EduCard()}
         </div>
     );
