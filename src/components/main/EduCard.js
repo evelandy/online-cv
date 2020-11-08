@@ -29,7 +29,7 @@ export default function EduCard() {
                                             {sch.degree}
                                         </div>
                                         <div className="eduGpaSm">
-                                            {sch.gpa}
+                                            GPA: {sch.gpa}
                                         </div>
                                         <div className='eduTypeSm'>
                                             {sch.type}
@@ -53,7 +53,7 @@ export default function EduCard() {
                                             {sch.degree}
                                         </div>
                                         <div className="eduGpaMed">
-                                            {sch.gpa}
+                                            GPA: {sch.gpa}
                                         </div>
                                         <div className='eduTypeMed'>
                                             {sch.type}
@@ -77,7 +77,7 @@ export default function EduCard() {
                                             {sch.degree}
                                         </div>
                                         <div className="eduGpaLg">
-                                            {sch.gpa}
+                                            GPA: {sch.gpa}
                                         </div>
                                         <div className='eduTypeLg'>
                                             {sch.type}
@@ -101,7 +101,7 @@ export default function EduCard() {
                                             {sch.degree}
                                         </div>
                                         <div className="eduGpaXXL">
-                                            {sch.gpa}
+                                            GPA: {sch.gpa}
                                         </div>
                                         <div className='eduTypeXXL'>
                                             {sch.type}
