@@ -43,6 +43,9 @@ export default function NavigationBar(){
                                 <span>
                                     <a className="navBarItemMed" href="#experience">Experience</a>
                                 </span>
+                                <span>
+                                    <a className="navBarItemMed" href="#projects">Projects</a>
+                                </span>
                             </nav>
                        }
                        {matches.secondMed && 
@@ -55,6 +58,9 @@ export default function NavigationBar(){
                                 </span>
                                 <span>
                                     <a className="navBarItemSecMed" href="#experience">Experience</a>
+                                </span>
+                                <span>
+                                    <a className="navBarItemMed" href="#projects">Projects</a>
                                 </span>
                             </nav>
                        }
@@ -69,6 +75,9 @@ export default function NavigationBar(){
                             <span>
                                 <a className="navBarItemLg" href="#experience">Experience</a>
                             </span>
+                            <span>
+                                <a className="navBarItemMed" href="#projects">Projects</a>
+                            </span>
                         </nav>
                        }
                        {matches.xxl && 
@@ -81,6 +90,9 @@ export default function NavigationBar(){
                             </span>
                             <span>
                                 <a className="navBarItemXXL" href="#experience">Experience</a>
+                            </span>
+                            <span>
+                                <a className="navBarItemMed" href="#projects">Projects</a>
                             </span>
                         </nav>
                        }
@@ -101,6 +113,9 @@ export default function NavigationBar(){
             </span>
             <span>
                 <a className="navBarItemSm" href="#experience">Experience</a>
+            </span>
+            <span>
+                <a className="navBarItemSm" href="#projects">Projects</a>
             </span>
         </div>
 

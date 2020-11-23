@@ -1,0 +1,150 @@
+.projectsContainer {
+    position: relative;
+    top: 950px;
+}
+.projectsHeader {
+    color: #8CC3A4;
+    text-transform: uppercase;
+    font-size: 29px;
+    font-weight: bold;
+    letter-spacing: 1.5px;
+    margin-bottom: 50px;
+}
+.projectCardBody {
+    max-width: 100vw;
+    margin-top: 3em;
+    box-shadow: 0px 1px 3px 0px #ECEBE4;
+}
+.projectCardBody:last-child {
+    margin-bottom: 5em;
+}
+.projectImage {
+    width: 100%;
+}
+.projectTitle {
+    background-color: #ECEBE4;
+    border: 1px solid #092327;
+    border-radius: 3px;
+    box-shadow: 0px 1px 3px 0px #092327;
+    width: 60%;
+    margin-left: 20%;
+    position: relative;
+    bottom: 1.5em;
+}
+
+
+
+.medProjectsContainer {
+    position: relative;
+    top: 990px;
+}
+.medProjectsHeader {
+    color: #8CC3A4;
+    text-transform: uppercase;
+    font-size: 29px;
+    font-weight: bold;
+    letter-spacing: 1.5px;
+    margin-bottom: 50px;
+}
+.medProjectCardBody {
+    max-width: 90vw;
+    margin-top: 3em;
+    margin-left: 5%;
+}
+.medProjectCardBody:last-child {
+    margin-bottom: 5em;
+}
+.medProjectImage {
+    width: 100%;
+    box-shadow: 0px 1px 5px 0px #ECEBE4;
+}
+.medProjectTitle {
+    background-color: #ECEBE4;
+    border: 1px solid #092327;
+    border-radius: 3px;
+    box-shadow: 0px 1px 3px 0px #092327;
+    width: 60%;
+    margin-left: 20%;
+    position: relative;
+    bottom: 1.75em;
+    padding-top: 3px;
+    padding-bottom: 5px;
+}
+
+
+
+.lgProjectsContainer {
+    position: relative;
+    top: 990px;
+}
+.lgProjectsHeader {
+    color: #8CC3A4;
+    text-transform: uppercase;
+    font-size: 29px;
+    font-weight: bold;
+    letter-spacing: 1.5px;
+    margin-bottom: 50px;
+}
+.lgProjectCardBody {
+    max-width: 80vw;
+    margin-top: 3em;
+    margin-left: 10%;
+}
+.lgProjectCardBody:last-child {
+    margin-bottom: 5em;
+}
+.lgProjectImage {
+    width: 100%;
+    box-shadow: 0px 1px 5px 0px #ECEBE4;
+}
+.lgProjectTitle {
+    background-color: #ECEBE4;
+    border: 1px solid #092327;
+    border-radius: 3px;
+    box-shadow: 0px 1px 3px 0px #092327;
+    width: 60%;
+    margin-left: 20%;
+    position: relative;
+    bottom: 1.75em;
+    padding-top: 3px;
+    padding-bottom: 5px;
+}
+
+
+
+.XXLProjectsContainer {
+    position: relative;
+    top: 1000px;
+}
+.XXLProjectsHeader {
+    color: #8CC3A4;
+    text-transform: uppercase;
+    font-size: 29px;
+    font-weight: bold;
+    letter-spacing: 1.5px;
+    margin-bottom: 50px;
+}
+.XXLProjectCardBody {
+    max-width: 50vw;
+    margin-top: 3em;
+    margin-left: 25%;
+}
+.XXLProjectCardBody:last-child {
+    margin-bottom: 5em;
+}
+.XXLProjectImage {
+    width: 100%;
+    box-shadow: 0px 1px 5px 0px #ECEBE4;
+}
+.XXLProjectTitle {
+    background-color: #ECEBE4;
+    border: 1px solid #092327;
+    border-radius: 3px;
+    box-shadow: 0px 1px 3px 0px #092327;
+    width: 60%;
+    margin-left: 20%;
+    position: relative;
+    bottom: 1.75em;
+    padding-top: 3px;
+    padding-bottom: 5px;
+}

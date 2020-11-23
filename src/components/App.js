@@ -6,6 +6,7 @@ import Education from './main/Education';
 import Footer from './footer/Footer';
 import LinkSection from './header/LinkSection';
 import ExpCard from './main/ExpCard';
+import Projects from './main/Projects';
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
       <About />
       <Education />
       <ExpCard />
+      <Projects />
       <Footer />
     </div>
   );
