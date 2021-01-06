@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.4b9b8c94.chunk.css",
-    "main.js": "/static/js/main.6109ba62.chunk.js",
-    "main.js.map": "/static/js/main.6109ba62.chunk.js.map",
+    "main.css": "/static/css/main.7b5419b1.chunk.css",
+    "main.js": "/static/js/main.42882ff5.chunk.js",
+    "main.js.map": "/static/js/main.42882ff5.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.18467040.js",
     "runtime-main.js.map": "/static/js/runtime-main.18467040.js.map",
     "static/js/2.c648073e.chunk.js": "/static/js/2.c648073e.chunk.js",
     "static/js/2.c648073e.chunk.js.map": "/static/js/2.c648073e.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.4b9b8c94.chunk.css.map": "/static/css/main.4b9b8c94.chunk.css.map",
+    "static/css/main.7b5419b1.chunk.css.map": "/static/css/main.7b5419b1.chunk.css.map",
     "static/js/2.c648073e.chunk.js.LICENSE.txt": "/static/js/2.c648073e.chunk.js.LICENSE.txt",
     "static/media/OnlinebusinessCard.3b06b9b9.jpg": "/static/media/OnlinebusinessCard.3b06b9b9.jpg",
     "static/media/city-guide.97ff849a.png": "/static/media/city-guide.97ff849a.png",
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.18467040.js",
     "static/js/2.c648073e.chunk.js",
-    "static/css/main.4b9b8c94.chunk.css",
-    "static/js/main.6109ba62.chunk.js"
+    "static/css/main.7b5419b1.chunk.css",
+    "static/js/main.42882ff5.chunk.js"
   ]
 }
