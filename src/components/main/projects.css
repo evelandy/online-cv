@@ -37,6 +37,14 @@
 .medProjectsContainer {
     position: relative;
     top: 990px;
+    margin-bottom: 7em;
+}
+.medProjectCardContainer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+    padding-top: 2em;
 }
 .medProjectsHeader {
     color: #8CC3A4;
@@ -47,12 +55,18 @@
     margin-bottom: 50px;
 }
 .medProjectCardBody {
-    max-width: 90vw;
+    /* max-width: 90vw;
     margin-top: 3em;
-    margin-left: 5%;
+    margin-left: 5%; */
+    width: 27em;
+    height: auto;
+    object-fit: contain;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    cursor: pointer;
 }
 .medProjectCardBody:last-child {
-    margin-bottom: 5em;
+    /* margin-bottom: 5em; */
 }
 .medProjectImage {
     width: 100%;
@@ -76,6 +90,14 @@
 .lgProjectsContainer {
     position: relative;
     top: 990px;
+    margin-bottom: 7em;
+}
+.lgProjectCardContainer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+    padding-top: 2em;
 }
 .lgProjectsHeader {
     color: #8CC3A4;
@@ -86,12 +108,18 @@
     margin-bottom: 50px;
 }
 .lgProjectCardBody {
-    max-width: 80vw;
+    /* max-width: 80vw;
     margin-top: 3em;
-    margin-left: 10%;
+    margin-left: 10%; */
+    width: 27em;
+    height: auto;
+    object-fit: contain;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    cursor: pointer;
 }
 .lgProjectCardBody:last-child {
-    margin-bottom: 5em;
+    /* margin-bottom: 5em; */
 }
 .lgProjectImage {
     width: 100%;
@@ -115,6 +143,13 @@
 .XXLProjectsContainer {
     position: relative;
     top: 1000px;
+    margin-bottom: 10em;
+}
+.XXLProjectCardContainer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 2em;
 }
 .XXLProjectsHeader {
     color: #8CC3A4;
@@ -125,12 +160,18 @@
     margin-bottom: 50px;
 }
 .XXLProjectCardBody {
-    max-width: 50vw;
+    width: 27em;
+    height: auto;
+    object-fit: contain;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    cursor: pointer;
+    /* max-width: 50vw;
     margin-top: 3em;
-    margin-left: 25%;
+    margin-left: 25%; */
 }
 .XXLProjectCardBody:last-child {
-    margin-bottom: 5em;
+    /* margin-bottom: 5em; */
 }
 .XXLProjectImage {
     width: 100%;
